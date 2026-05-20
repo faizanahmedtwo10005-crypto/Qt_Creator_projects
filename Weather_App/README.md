@@ -1,1 +1,6 @@
+Weather App is a desktop-based application developed using Qt Creator and C++ that provides real-time weather information for cities around the world through API integration. The application allows users to search for any location and instantly view live weather details such as temperature, weather conditions, humidity, wind speed, and other environmental information. The project focuses on displaying current weather data only, without forecasting previous or upcoming days.
+
+The application was built using the Qt framework for GUI development and modern C++ programming concepts. API integration was implemented to fetch accurate and up-to-date weather data from online weather services in real time. This project helped me gain practical experience in REST API handling, JSON data parsing, network requests, GUI design, and event-driven programming in Qt.
+
+The Weather App features a clean and user-friendly interface that makes weather checking simple and efficient. Through this project, I improved my understanding of Object-Oriented Programming (OOP), API communication, and desktop application development using C++ and Qt Creator. It represents an important step in my learning journey as a software developer and demonstrates my ability to build real-world applications with external service integration.
 
